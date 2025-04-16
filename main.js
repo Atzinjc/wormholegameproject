@@ -44,7 +44,7 @@ function resetSketch(){
   gameOverScreen.background(255, 0, 0);
   gameMode = 0;
   //sound volumes
-  thruster.setVolume(volume-0.2);
+  thruster.setVolume(volume-0.3);
   music.setVolume(volume); 
   weapDrop = new WeapDrop();
   range = floor(random(6,10));
