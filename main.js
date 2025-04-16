@@ -14,7 +14,7 @@ function preload() {
 
   monster = loadSound("Monster Music.wav");
   ship1 = loadSound("ship.mp3");
-  thruster = loadSound("thruster_old.mp3");
+  thruster = loadSound("thruster.mp3");
   music = loadSound("Music_01.wav");
   weapon_hit = loadSound("Gunshot.wav"); 
 }
